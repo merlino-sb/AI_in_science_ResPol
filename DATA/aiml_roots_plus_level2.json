@@ -1,0 +1,922 @@
+[
+  {
+    "id": "C154945302",
+    "name": "Artificial intelligence"
+  },
+  {
+    "id": "C119857082",
+    "name": "Machine learning"
+  },
+  {
+    "id": "C31972630",
+    "name": "Computer vision"
+  },
+  {
+    "id": "C28490314",
+    "name": "Speech recognition"
+  },
+  {
+    "id": "C204321447",
+    "name": "Natural language processing"
+  },
+  {
+    "id": "C115961682",
+    "name": "Image (mathematics)"
+  },
+  {
+    "id": "C50644808",
+    "name": "Artificial neural network"
+  },
+  {
+    "id": "C81917197",
+    "name": "Selection (genetic algorithm)"
+  },
+  {
+    "id": "C136197465",
+    "name": "Variety (cybernetics)"
+  },
+  {
+    "id": "C73555534",
+    "name": "Cluster analysis"
+  },
+  {
+    "id": "C108583219",
+    "name": "Deep learning"
+  },
+  {
+    "id": "C89600930",
+    "name": "Segmentation"
+  },
+  {
+    "id": "C12267149",
+    "name": "Support vector machine"
+  },
+  {
+    "id": "C107673813",
+    "name": "Bayesian probability"
+  },
+  {
+    "id": "C81363708",
+    "name": "Convolutional neural network"
+  },
+  {
+    "id": "C52622490",
+    "name": "Feature extraction"
+  },
+  {
+    "id": "C47432892",
+    "name": "Wavelet"
+  },
+  {
+    "id": "C153083717",
+    "name": "Leverage (statistics)"
+  },
+  {
+    "id": "C41608201",
+    "name": "Embedding"
+  },
+  {
+    "id": "C157286648",
+    "name": "Kalman filter"
+  },
+  {
+    "id": "C97541855",
+    "name": "Reinforcement learning"
+  },
+  {
+    "id": "C27438332",
+    "name": "Principal component analysis"
+  },
+  {
+    "id": "C169258074",
+    "name": "Random forest"
+  },
+  {
+    "id": "C58489278",
+    "name": "Data set"
+  },
+  {
+    "id": "C148483581",
+    "name": "Feature selection"
+  },
+  {
+    "id": "C84525736",
+    "name": "Decision tree"
+  },
+  {
+    "id": "C107327155",
+    "name": "Decision support system"
+  },
+  {
+    "id": "C132829578",
+    "name": "Situated"
+  },
+  {
+    "id": "C79337645",
+    "name": "Outlier"
+  },
+  {
+    "id": "C111030470",
+    "name": "Curse of dimensionality"
+  },
+  {
+    "id": "C739882",
+    "name": "Anomaly detection"
+  },
+  {
+    "id": "C33954974",
+    "name": "Sensor fusion"
+  },
+  {
+    "id": "C97931131",
+    "name": "Discriminative model"
+  },
+  {
+    "id": "C66402592",
+    "name": "Sentiment analysis"
+  },
+  {
+    "id": "C46686674",
+    "name": "Boosting (machine learning)"
+  },
+  {
+    "id": "C23224414",
+    "name": "Hidden Markov model"
+  },
+  {
+    "id": "C69738355",
+    "name": "Linear discriminant analysis"
+  },
+  {
+    "id": "C122507166",
+    "name": "Crossover"
+  },
+  {
+    "id": "C70518039",
+    "name": "Dimensionality reduction"
+  },
+  {
+    "id": "C58328972",
+    "name": "Expert system"
+  },
+  {
+    "id": "C41550386",
+    "name": "Multi-agent system"
+  },
+  {
+    "id": "C83665646",
+    "name": "Feature vector"
+  },
+  {
+    "id": "C60641444",
+    "name": "Delphi method"
+  },
+  {
+    "id": "C77967617",
+    "name": "Active learning (machine learning)"
+  },
+  {
+    "id": "C137293760",
+    "name": "Language model"
+  },
+  {
+    "id": "C33724603",
+    "name": "Bayesian network"
+  },
+  {
+    "id": "C70437156",
+    "name": "Pooling"
+  },
+  {
+    "id": "C146849305",
+    "name": "Ground truth"
+  },
+  {
+    "id": "C51632099",
+    "name": "Training set"
+  },
+  {
+    "id": "C114289077",
+    "name": "Statistical model"
+  },
+  {
+    "id": "C113238511",
+    "name": "k-nearest neighbors algorithm"
+  },
+  {
+    "id": "C61328038",
+    "name": "Speech processing"
+  },
+  {
+    "id": "C45942800",
+    "name": "Ensemble learning"
+  },
+  {
+    "id": "C176777502",
+    "name": "Anticipation (artificial intelligence)"
+  },
+  {
+    "id": "C9679016",
+    "name": "Principle of maximum entropy"
+  },
+  {
+    "id": "C111012933",
+    "name": "Rough set"
+  },
+  {
+    "id": "C2776608531",
+    "name": "Watson"
+  },
+  {
+    "id": "C193524817",
+    "name": "Association rule learning"
+  },
+  {
+    "id": "C64869954",
+    "name": "False positive paradox"
+  },
+  {
+    "id": "C161301231",
+    "name": "Knowledge representation and reasoning"
+  },
+  {
+    "id": "C93959086",
+    "name": "Model selection"
+  },
+  {
+    "id": "C59404180",
+    "name": "Feature learning"
+  },
+  {
+    "id": "C5339829",
+    "name": "Machine vision"
+  },
+  {
+    "id": "C8038995",
+    "name": "Unsupervised learning"
+  },
+  {
+    "id": "C51167844",
+    "name": "Latent variable"
+  },
+  {
+    "id": "C61224824",
+    "name": "Mixture model"
+  },
+  {
+    "id": "C52102323",
+    "name": "Pose"
+  },
+  {
+    "id": "C40969351",
+    "name": "Word error rate"
+  },
+  {
+    "id": "C133892786",
+    "name": "Speaker recognition"
+  },
+  {
+    "id": "C169903167",
+    "name": "Test set"
+  },
+  {
+    "id": "C152139883",
+    "name": "Mutual information"
+  },
+  {
+    "id": "C94966114",
+    "name": "Black box"
+  },
+  {
+    "id": "C110332635",
+    "name": "Genetic programming"
+  },
+  {
+    "id": "C78397625",
+    "name": "Discriminant"
+  },
+  {
+    "id": "C51432778",
+    "name": "Independent component analysis"
+  },
+  {
+    "id": "C139502532",
+    "name": "Computational intelligence"
+  },
+  {
+    "id": "C2776836416",
+    "name": "False alarm"
+  },
+  {
+    "id": "C120567893",
+    "name": "Knowledge extraction"
+  },
+  {
+    "id": "C64848388",
+    "name": "Futures studies"
+  },
+  {
+    "id": "C157202957",
+    "name": "Image warping"
+  },
+  {
+    "id": "C10551718",
+    "name": "Data pre-processing"
+  },
+  {
+    "id": "C45273575",
+    "name": "Spectrogram"
+  },
+  {
+    "id": "C110083411",
+    "name": "Statistical classification"
+  },
+  {
+    "id": "C155846161",
+    "name": "Graphical model"
+  },
+  {
+    "id": "C2776933761",
+    "name": "Self-management"
+  },
+  {
+    "id": "C2776517306",
+    "name": "Similarity measure"
+  },
+  {
+    "id": "C121687571",
+    "name": "Activity recognition"
+  },
+  {
+    "id": "C56397880",
+    "name": "Intelligent decision support system"
+  },
+  {
+    "id": "C2777036941",
+    "name": "Motion analysis"
+  },
+  {
+    "id": "C3019007443",
+    "name": "3d model"
+  },
+  {
+    "id": "C2776145971",
+    "name": "Labeled data"
+  },
+  {
+    "id": "C58103923",
+    "name": "Silhouette"
+  },
+  {
+    "id": "C1921717",
+    "name": "Mahalanobis distance"
+  },
+  {
+    "id": "C88516994",
+    "name": "Dynamic time warping"
+  },
+  {
+    "id": "C152565575",
+    "name": "Conditional random field"
+  },
+  {
+    "id": "C168820333",
+    "name": "Visual inspection"
+  },
+  {
+    "id": "C74072328",
+    "name": "Intelligent agent"
+  },
+  {
+    "id": "C2982962833",
+    "name": "Information fusion"
+  },
+  {
+    "id": "C88485024",
+    "name": "Cepstrum"
+  },
+  {
+    "id": "C58973888",
+    "name": "Semi-supervised learning"
+  },
+  {
+    "id": "C171752962",
+    "name": "Kullback–Leibler divergence"
+  },
+  {
+    "id": "C27181475",
+    "name": "Cross-validation"
+  },
+  {
+    "id": "C82327864",
+    "name": "Intelligent control"
+  },
+  {
+    "id": "C153874254",
+    "name": "Canonical correlation"
+  },
+  {
+    "id": "C116738811",
+    "name": "Nearest neighbor search"
+  },
+  {
+    "id": "C157170001",
+    "name": "Applications of artificial intelligence"
+  },
+  {
+    "id": "C93768804",
+    "name": "Artificial immune system"
+  },
+  {
+    "id": "C20162079",
+    "name": "Case-based reasoning"
+  },
+  {
+    "id": "C79772020",
+    "name": "Conditional independence"
+  },
+  {
+    "id": "C95922358",
+    "name": "False positive rate"
+  },
+  {
+    "id": "C21780288",
+    "name": "Coco"
+  },
+  {
+    "id": "C138602881",
+    "name": "Confusion matrix"
+  },
+  {
+    "id": "C52970973",
+    "name": "Adaptive system"
+  },
+  {
+    "id": "C12302492",
+    "name": "Setpoint"
+  },
+  {
+    "id": "C2778975910",
+    "name": "PARRY"
+  },
+  {
+    "id": "C168136583",
+    "name": "Bayesian information criterion"
+  },
+  {
+    "id": "C3020716817",
+    "name": "Visual feedback"
+  },
+  {
+    "id": "C9751117",
+    "name": "Optical head-mounted display"
+  },
+  {
+    "id": "C148524875",
+    "name": "F1 score"
+  },
+  {
+    "id": "C178011137",
+    "name": "Dempster–Shafer theory"
+  },
+  {
+    "id": "C2985021205",
+    "name": "Virtual space"
+  },
+  {
+    "id": "C137546455",
+    "name": "Trigram"
+  },
+  {
+    "id": "C2982736386",
+    "name": "Statistical learning"
+  },
+  {
+    "id": "C13687954",
+    "name": "Autonomous agent"
+  },
+  {
+    "id": "C4661277",
+    "name": "Cog"
+  },
+  {
+    "id": "C2776482837",
+    "name": "Multi-label classification"
+  },
+  {
+    "id": "C112933361",
+    "name": "Probabilistic latent semantic analysis"
+  },
+  {
+    "id": "C19273510",
+    "name": "Artificial life"
+  },
+  {
+    "id": "C3019493240",
+    "name": "3d scanning"
+  },
+  {
+    "id": "C2780692498",
+    "name": "Component analysis"
+  },
+  {
+    "id": "C17305859",
+    "name": "Soar"
+  },
+  {
+    "id": "C9616225",
+    "name": "Semantic reasoner"
+  },
+  {
+    "id": "C2993807640",
+    "name": "Attention network"
+  },
+  {
+    "id": "C193221554",
+    "name": "Commonsense reasoning"
+  },
+  {
+    "id": "C161657586",
+    "name": "Technology forecasting"
+  },
+  {
+    "id": "C91316289",
+    "name": "Bionics"
+  },
+  {
+    "id": "C2986158284",
+    "name": "Distance measurement"
+  },
+  {
+    "id": "C2777598771",
+    "name": "Educational data mining"
+  },
+  {
+    "id": "C24145651",
+    "name": "Bhattacharyya distance"
+  },
+  {
+    "id": "C2778943297",
+    "name": "Cursive"
+  },
+  {
+    "id": "C114073186",
+    "name": "Automated planning and scheduling"
+  },
+  {
+    "id": "C2778445095",
+    "name": "Sample complexity"
+  },
+  {
+    "id": "C2781213101",
+    "name": "Keyword spotting"
+  },
+  {
+    "id": "C2983946233",
+    "name": "Nearest neighbour"
+  },
+  {
+    "id": "C13672336",
+    "name": "Bag-of-words model"
+  },
+  {
+    "id": "C2986565385",
+    "name": "Motion sensors"
+  },
+  {
+    "id": "C6980683",
+    "name": "Gene expression programming"
+  },
+  {
+    "id": "C2780735816",
+    "name": "Incremental learning"
+  },
+  {
+    "id": "C2911011789",
+    "name": "Hallucinating"
+  },
+  {
+    "id": "C35405484",
+    "name": "Brier score"
+  },
+  {
+    "id": "C100279318",
+    "name": "Sample space"
+  },
+  {
+    "id": "C3020781530",
+    "name": "Prosthetic hand"
+  },
+  {
+    "id": "C2985684807",
+    "name": "Text generation"
+  },
+  {
+    "id": "C2987098735",
+    "name": "Recall rate"
+  },
+  {
+    "id": "C3020402766",
+    "name": "Prior information"
+  },
+  {
+    "id": "C2778865114",
+    "name": "Uncertain data"
+  },
+  {
+    "id": "C193611912",
+    "name": "Active vision"
+  },
+  {
+    "id": "C2776780472",
+    "name": "Rule induction"
+  },
+  {
+    "id": "C149490388",
+    "name": "Sequential Pattern Mining"
+  },
+  {
+    "id": "C2983203078",
+    "name": "Information gain"
+  },
+  {
+    "id": "C3018868555",
+    "name": "Single camera"
+  },
+  {
+    "id": "C2988416141",
+    "name": "Information loss"
+  },
+  {
+    "id": "C2989486834",
+    "name": "True positive rate"
+  },
+  {
+    "id": "C2781336979",
+    "name": "Colour Vision"
+  },
+  {
+    "id": "C3019060180",
+    "name": "Automated method"
+  },
+  {
+    "id": "C2984933120",
+    "name": "Fixation point"
+  },
+  {
+    "id": "C2992798094",
+    "name": "Grey scale"
+  },
+  {
+    "id": "C2780660688",
+    "name": "Multimodal learning"
+  },
+  {
+    "id": "C2780724565",
+    "name": "Data classification"
+  },
+  {
+    "id": "C118317068",
+    "name": "Point distribution model"
+  },
+  {
+    "id": "C196070930",
+    "name": "Correlogram"
+  },
+  {
+    "id": "C2986420190",
+    "name": "Semantic space"
+  },
+  {
+    "id": "C3019722297",
+    "name": "High dimensional"
+  },
+  {
+    "id": "C3019039443",
+    "name": "Finger print"
+  },
+  {
+    "id": "C3018151503",
+    "name": "Hand position"
+  },
+  {
+    "id": "C207453521",
+    "name": "Artificial intelligence, situated approach"
+  },
+  {
+    "id": "C59050026",
+    "name": "Case analysis"
+  },
+  {
+    "id": "C104317236",
+    "name": "Classification rule"
+  },
+  {
+    "id": "C2983448237",
+    "name": "Language understanding"
+  },
+  {
+    "id": "C22367795",
+    "name": "Structured prediction"
+  },
+  {
+    "id": "C82668687",
+    "name": "Earth mover's distance"
+  },
+  {
+    "id": "C2982818900",
+    "name": "Artificial vision"
+  },
+  {
+    "id": "C162040801",
+    "name": "Bootstrap aggregating"
+  },
+  {
+    "id": "C2991791887",
+    "name": "Computer image"
+  },
+  {
+    "id": "C5065155",
+    "name": "Frame problem"
+  },
+  {
+    "id": "C2987015589",
+    "name": "Learning network"
+  },
+  {
+    "id": "C136520226",
+    "name": "Geometric data analysis"
+  },
+  {
+    "id": "C2985264313",
+    "name": "Pattern analysis"
+  },
+  {
+    "id": "C2986522900",
+    "name": "Spatial relationship"
+  },
+  {
+    "id": "C2988656282",
+    "name": "Activity detection"
+  },
+  {
+    "id": "C2988382989",
+    "name": "Data space"
+  },
+  {
+    "id": "C2983703474",
+    "name": "Probability estimation"
+  },
+  {
+    "id": "C2985946229",
+    "name": "Data sampling"
+  },
+  {
+    "id": "C83282275",
+    "name": "Scoring algorithm"
+  },
+  {
+    "id": "C2779714256",
+    "name": "Multiple Models"
+  },
+  {
+    "id": "C2776088427",
+    "name": "Pattern detection"
+  },
+  {
+    "id": "C2987571089",
+    "name": "Multi camera"
+  },
+  {
+    "id": "C112972136",
+    "name": "Stability (learning theory)"
+  },
+  {
+    "id": "C98763669",
+    "name": "Markov chain"
+  },
+  {
+    "id": "C151406439",
+    "name": "Time series"
+  },
+  {
+    "id": "C150547873",
+    "name": "Watershed"
+  },
+  {
+    "id": "C774472",
+    "name": "Margin (machine learning)"
+  },
+  {
+    "id": "C139002025",
+    "name": "Lift (data mining)"
+  },
+  {
+    "id": "C50817715",
+    "name": "Regret"
+  },
+  {
+    "id": "C45804977",
+    "name": "Predictive modelling"
+  },
+  {
+    "id": "C2776145597",
+    "name": "Dropout (neural networks)"
+  },
+  {
+    "id": "C89198739",
+    "name": "Data stream mining"
+  },
+  {
+    "id": "C70727504",
+    "name": "Latent class model"
+  },
+  {
+    "id": "C32230216",
+    "name": "Uncertainty quantification"
+  },
+  {
+    "id": "C50897621",
+    "name": "Hybrid system"
+  },
+  {
+    "id": "C163864269",
+    "name": "Cohen's kappa"
+  },
+  {
+    "id": "C91682802",
+    "name": "Multidimensional scaling"
+  },
+  {
+    "id": "C2777648619",
+    "name": "Learning analytics"
+  },
+  {
+    "id": "C101601086",
+    "name": "Rank correlation"
+  },
+  {
+    "id": "C66251956",
+    "name": "Sensor array"
+  },
+  {
+    "id": "C83209312",
+    "name": "Predictive analytics"
+  },
+  {
+    "id": "C2779513410",
+    "name": "Credence"
+  },
+  {
+    "id": "C2779436431",
+    "name": "Policy learning"
+  },
+  {
+    "id": "C33553690",
+    "name": "Free energy principle"
+  },
+  {
+    "id": "C13926793",
+    "name": "Group method of data handling"
+  },
+  {
+    "id": "C2779280203",
+    "name": "Small data"
+  },
+  {
+    "id": "C39425265",
+    "name": "Optimal estimation"
+  },
+  {
+    "id": "C128197687",
+    "name": "Statistical noise"
+  },
+  {
+    "id": "C103824480",
+    "name": "Time domain"
+  },
+  {
+    "id": "C3770464",
+    "name": "Smoothing"
+  },
+  {
+    "id": "C205203396",
+    "name": "Bilinear interpolation"
+  },
+  {
+    "id": "C122890649",
+    "name": "Transfer matrix"
+  },
+  {
+    "id": "C2909954168",
+    "name": "Digital image analysis"
+  },
+  {
+    "id": "C7888048",
+    "name": "ROUGE"
+  },
+  {
+    "id": "C71472368",
+    "name": "Text mining"
+  }
+]
